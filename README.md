@@ -33,15 +33,24 @@
 <a href="https://github.com/robbertV/com.flow.utilities">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robbertV&repo=com.flow.utilities&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>   
-
-a href="https://github.com/martijnpoppen/niu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=niu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+<a href="https://github.com/martijnpoppen/magic.home.wifi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=magic.home.wifi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>   
 
-a href="https://github.com/martijnpoppen/com.synology">
+<a href="https://github.com/martijnpoppen/com.visionsecurity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.visionsecurity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>   
+
+
+<a href="https://github.com/martijnpoppen/com.niu.mobility">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.niu.mobility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>   
+
+<a href="https://github.com/martijnpoppen/com.synology">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.synology&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>   
 
-a href="https://github.com/martijnpoppen/net.amberpro">
+<a href="https://github.com/martijnpoppen/net.amberpro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=net.amberpro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
-</a>   
+</a>
+
