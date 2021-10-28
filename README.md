@@ -10,8 +10,8 @@
 </a>
 
 
-<a href="https://github.com/martijnpoppen/com.synology">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.synology&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+<a href="https://github.com/martijnpoppen/com.eufylife.homer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.eufylife.homer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>   
 
 
