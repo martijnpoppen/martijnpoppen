@@ -56,3 +56,19 @@
 <a href="https://github.com/martijnpoppen/com.tomtom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.tomtom&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
+
+<a href="https://github.com/martijnpoppen/com.we-volkswagen.connect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.we-volkswagen.connect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/martijnpoppen/com.seat.connectedcar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.seat.connectedcar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/martijnpoppen/de.myaudi.mobile.assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=de.myaudi.mobile.assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/martijnpoppen/cz.skodaauto.connect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=cz.skodaauto.connect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
