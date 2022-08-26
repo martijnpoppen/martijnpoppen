@@ -5,6 +5,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martijnpoppen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Martijn's GitHub Stats" />
 </a>
 
+
+<br>**Contributions**
+
+If you appreciate what I do, contribute to future development by making a [paypal contribution ](https://www.paypal.me/martijnpoppen) 
+or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or [Bunq.me](https://bunq.me/MartijnPoppen)
+<br>
+
+
 <a href="https://github.com/martijnpoppen/com.eufylife.security">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=com.eufylife.security&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
@@ -82,11 +90,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=leditbe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
 
-
-<br>**Contributions**
-
-If you appreciate what I do, contribute to future development by making a [paypal contribution ](https://www.paypal.me/martijnpoppen) 
-or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or [Bunq.me](https://bunq.me/MartijnPoppen)
-
-[![image|500x281, 30%](https://global.discourse-cdn.com/business4/uploads/athom/original/3X/2/9/2916364caa1239076c12be293d270d5980d9d272.png)](https://paypal.me/martijnpoppen) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/martijnpoppen#checkoutModal)[![image|690x361, 25%](https://global.discourse-cdn.com/business4/uploads/athom/original/3X/8/4/8449771d527e7184562e1301d641dfc1e99a4261.png)](https://bunq.me/MartijnPoppen)
-<br>
