@@ -81,3 +81,10 @@
 <a href="https://github.com/martijnpoppen/leditbe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=leditbe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
+
+**Contributions**
+If you appreciate what I do, contribute to future development by making a [paypal contribution ](https://www.paypal.me/martijnpoppen) 
+or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or [Bunq.me](https://bunq.me/MartijnPoppen)
+
+[![image|500x281, 30%](upload://5Rtagdo7TObzh9u8haIuXaXBJbc.png)](https://paypal.me/martijnpoppen) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/martijnpoppen#checkoutModal)[![image|690x361, 25%](upload://iSgqkM7Zaw5s5hwVVnAqXNDQLG9.png)](https://bunq.me/MartijnPoppen)
+<br>
