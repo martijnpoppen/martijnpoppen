@@ -1,3 +1,12 @@
+
+<br>**Contributions**
+
+If you appreciate what I do, contribute to future development by making a [paypal contribution ](https://www.paypal.me/martijnpoppen) 
+or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or [Bunq.me](https://bunq.me/MartijnPoppen)
+<br>
+
+<hr>
+
 <a href="https://github.com/martijnpoppen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martijnpoppen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3" />
 </a>
@@ -5,12 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martijnpoppen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Martijn's GitHub Stats" />
 </a>
 
-
-<br>**Contributions**
-
-If you appreciate what I do, contribute to future development by making a [paypal contribution ](https://www.paypal.me/martijnpoppen) 
-or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or [Bunq.me](https://bunq.me/MartijnPoppen)
-<br>
 
 
 <a href="https://github.com/martijnpoppen/com.eufylife.security">
