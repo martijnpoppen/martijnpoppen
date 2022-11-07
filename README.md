@@ -103,3 +103,8 @@ or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=homey_nl.luxaflex.powerview&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
 
+<a href="https://github.com/martijnpoppen/nl.deskweb.netcheck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martijnpoppen&repo=nl.deskweb.netcheck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
+
+
