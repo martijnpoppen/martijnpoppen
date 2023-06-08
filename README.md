@@ -108,6 +108,6 @@ or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or 
 </a>
 
 
-<a href="https://github.com/martijnpoppen/com.abtetterrouteplanner">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.abtetterrouteplanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+<a href="https://github.com/martijnpoppen/com.abetterrouteplanner">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.abetterrouteplanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
