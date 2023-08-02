@@ -89,6 +89,10 @@ or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or 
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=cz.skodaauto.connect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
 
+<a href="https://github.com/martijnpoppen/com.cupra.connectedcar">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.cupra.connectedcar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
+
 <a href="https://github.com/martijnpoppen/com.vag.core">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.vag.core&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
