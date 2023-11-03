@@ -15,7 +15,6 @@ or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or 
 </a>
 
 
-
 <a href="https://github.com/martijnpoppen/com.eufylife.security">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.eufylife.security&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
