@@ -3,8 +3,9 @@
 
 If you appreciate what I do, contribute to future development by making a [paypal contribution ](https://www.paypal.me/martijnpoppen) 
 or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or [Bunq.me](https://bunq.me/MartijnPoppen)
-<br>
-:link: See my dedicated support topics for Homey apps: https://community.homey.app/t/apps-made-by-martijnpoppen/85812
+<br><br><br>
+:link: See my dedicated support topics for Homey apps: https://community.homey.app/t/85812
+
 
 <hr>
 
