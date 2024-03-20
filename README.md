@@ -57,11 +57,6 @@ or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or 
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.niu.mobility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>   
 
-<a href="https://github.com/martijnpoppen/com.developer.checker">
-  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.developer.checker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
-</a>   
-
-
 <a href="https://github.com/martijnpoppen/com.synology">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=com.synology&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>   
