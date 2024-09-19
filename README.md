@@ -130,3 +130,10 @@ or buy me a coffee on [Ko-Fi](https://ko-fi.com/martijnpoppen#checkoutModal) or 
 <a href="https://github.com/martijnpoppen/homey-betterstack">
   <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=homey-betterstack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
+
+
+
+<a href="https://github.com/martijnpoppen/eufy-clean">
+  <img align="center" src="https://readme-stats.clckblog.space/api/pin/?username=martijnpoppen&repo=eufy-clean&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
+
